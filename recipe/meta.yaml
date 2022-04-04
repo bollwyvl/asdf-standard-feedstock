@@ -21,7 +21,7 @@ requirements:
     - setuptools
     - setuptools-scm
   run:
-    - importlib-resources >=3
+    - importlib_resources >=3
     - python >=3.7
 
 test:
